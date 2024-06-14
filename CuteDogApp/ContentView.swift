@@ -3,7 +3,7 @@
 //  CuteDogApp
 //
 //  Created by Scholar on 6/5/24.
-//
+//comet <3
 
 import SwiftUI
 
